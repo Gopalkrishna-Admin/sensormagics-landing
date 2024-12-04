@@ -1,87 +1,71 @@
-# Free Tailwind landing page template
 
-![Simple TailwindCSS template preview](https://github.com/cruip/tailwind-landing-page-template/assets/2683512/f9a98fab-a1bc-4fb5-8572-4de0b6bd932a)
+# <h1 style="text-align: center;">🌟 BrainWave AI Website 🚀</h1>
+<div style="text-align: center;">
+    <a href="https://brainwave-stardust.vercel.app/" target="_blank">
+        <img src="public/frontPage.png" alt="Brain Wave AI Website" style="width: 100%;">
+    </a>
+</div>
 
-**Simple Light** is a free landing page template built on top of **TailwindCSS** and fully coded in **React** / **Next.js**. Simple light is designed to provide all the basic components a developer need to create a landing page for SaaS products, online services, and more.
-Use it for whatever you want, and be sure to reach us out on Twitter if you build anything cool/useful with it.
-Created and maintained with ❤️ by [Cruip.com](https://cruip.com/).
+## [SEE LIVE🌟](https://brainwave-stardust.vercel.app/)
 
-_Version 1.3.3 built with Tailwind CSS and React + Vite is available [here](https://github.com/cruip/tailwind-landing-page-template/releases/tag/1.3.3)._
 
-## Live demo
 
-Check the live demo here 👉️ [https://simple.cruip.com/](https://simple.cruip.com/)
+<p style="text-align: center; font-size: 20px;">Welcome to Brain Wave, an innovative AI website built using React and Tailwind CSS! Let's dive into the future together! 🌈</p>
 
-## Simple Pro
+<h2 style="text-align: ;">✨ Features</h2>
 
-[![Simple Pro](https://github.com/cruip/tailwind-landing-page-template/assets/2683512/992be2ba-3de7-4838-be41-12e85686c193)](https://cruip.com/)
+<ul style="list-style-type: none; text-align: ;">
+    <li>🌟 Stunning Parallax Effects: Utilize the "react-just-parallax" library to create captivating parallax effects that engage your users.</li>
+    <li>🔗 Seamless Navigation: With "react-router-dom," users can seamlessly navigate between different sections of your website, ensuring a smooth browsing experience.</li>
+    <li>🔒 Scroll Lock: Ensure a distraction-free experience for your users by implementing "scroll-lock" to prevent unwanted scrolling during interactions.</li>
+</ul>
 
-## Design files
+<h2 style="text-align: ;">🛠 Technologies Used</h2>
 
-If you need the design files, you can download them from Figma's Community 👉 https://bit.ly/3HOZMpf
+<ul style="list-style-type: none; text-align: ;">
+    <li>React ⚛️</li>
+    <li>Tailwind CSS 🎨</li>
+    <li>react-just-parallax: ^3.1.16 🌌</li>
+    <li>react-router-dom: ^6.22.3 🚪</li>
+    <li>scroll-lock: ^2.1.5 🔒</li>
+</ul>
 
-## Usage
+<h2 style="text-align: ;">🚀 How to Run</h2>
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<ol >
+    <li>Clone this repository 🔄</li>
+    <li>Navigate to the project directory 📁</li>
+    <li>Install dependencies using <code>npm install</code> 📦</li>
+    <li>Start the development server with <code>npm start</code> ▶️</li>
+    <li>Open your browser and go to <a href="http://localhost:3000">http://localhost:3000</a> to view the website 🌐</li>
+</ol>
 
-### Getting Started
+ <h2>🔮 Future Goals</h2>
+        <p>Our future roadmap includes:</p>
+        <ul>
+            <li>🔹 Transitioning from React to Next.js for improved performance and SEO.</li>
+            <li>🔹 Integrating advanced AI features such as image generation and chat functionalities for enhanced user interaction. 🖼️💬</li>
+            <li>🔹 Expanding our reach and impact in the AI community through innovative projects and collaborations. 🌐</li>
+        </ul>
 
-First, run the development server:
+<h2 style="text-align: ;">🤝 Contributing</h2>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+<p style="text-align: ;">Contributions are welcome! If you'd like to contribute to Brain Wave, please follow these steps:</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<ol >
+    <li>Fork the repository 🍴</li>
+    <li>Create your feature branch (<code>git checkout -b feature/AmazingFeature</code>) 🌟</li>
+    <li>Commit your changes (<code>git commit -m 'Add some amazing feature'</code>) 💡</li>
+    <li>Push to the branch (<code>git push origin feature/AmazingFeature</code>) 🚀</li>
+</ol>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<hr/>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+###### This project is inspired by the [BrainWave AI Landing Page Kit](https://ui8.net/ui8/products/brainwave-ai-landing-page-kit?rel=jsm) available on UI8. Check it out for more design inspiration! ✨
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<hr/>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+ <h3 style="text-align: center; font-style: italic;">"The only way to do great work is to love what you do." - Steve Jobs 🌟</h3>
 
-### Learn More
+ <hr/>
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-### Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-### Support notes
-
-This template has been developed with the App Router (`app`) and React Server Components. If you’re unfamiliar with these beta features, you can find more information about them on the Next.js beta documentation page. So, please note that any request dealing with React (e.g. extra features, customisations, et cetera) is to be considered out of the support scope.
-
-For more information about what support covers, please see our (FAQs)[https://cruip.com/faq/].
-
-## Credits
-
-- [Nucleo](https://nucleoapp.com/)
-
-## Terms and License
-
-- Released under the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).
-- Copyright 2024 [Cruip](https://cruip.com/).
-- Use it for personal and commercial projects, but please don’t republish, redistribute, or resell the template.
-- Attribution is not required, although it is really appreciated.
-
-## About Us
-
-We're an Italian developer/designer duo creating high-quality design/code resources for developers, makers, and startups.
-
-## Stay in the loop
-
-If you would like to know when we release new resources, you can follow us on [Twitter](https://twitter.com/Cruip_com), or you can subscribe to our monthly [newsletter](https://cruip.com/#subscribe).
