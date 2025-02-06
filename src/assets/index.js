@@ -22,6 +22,7 @@ import loading from "./loading.png";
 import background from "./background.jpg";
 
 import curve from "./hero/curve.png";
+import logo from "./logo.png";
 import robot from "./hero/robot.jpg";
 import heroBackground from "./hero/hero-background.jpg";
 
@@ -87,6 +88,7 @@ export {
   smallSphere,
   grid,
   yourlogo,
+  logo,
   homeSmile,
   file02,
   searchMd,

@@ -15,30 +15,31 @@ export default {
       },
       colors: {
         color: {
-          1: "#AC6AFF",
-          2: "#FFC876",
-          3: "#FF776F",
-          4: "#7ADB78",
-          5: "#858DFF",
-          6: "#FF98E2",
+          1: "#6366F1", // Primary - Indigo
+          2: "#F59E0B", // Warning - Amber
+          3: "#EF4444", // Danger - Red
+          4: "#10B981", // Success - Emerald
+          5: "#8B5CF6", // Info - Purple
+          6: "#EC4899", // Accent - Pink
         },
         stroke: {
-          1: "#26242C",
+          1: "#94A3B8", // Medium border (darker than before)
+         
         },
         n: {
-          1: "#FFFFFF",
-          2: "#CAC6DD",
-          3: "#ADA8C3",
-          4: "#757185",
-          5: "#3F3A52",
-          6: "#252134",
-          7: "#15131D",
-          8: "#0E0C15",
-          9: "#474060",
-          10: "#43435C",
-          11: "#1B1B2E",
-          12: "#2E2A41",
-          13: "#6C7275",
+          1: "#0F172A", // Primary text
+          2: "#1E293B", // Secondary text
+          3: "#334155", // Tertiary text
+          4: "#64748B", // Muted text
+          5: "#94A3B8", // Disabled text
+          6: "#F1F5F9", // Light background
+          7: "#F8FAFC", // Lighter background
+          8: "#FFFFFF", // White background
+          9: "#6366F1", // Primary accent
+          10: "#818CF8", // Secondary accent
+          11: "#F1F5F9", // Neutral light
+          12: "#E2E8F0", // Border
+          13: "#64748B", // Muted
         },
       },
       fontFamily: {

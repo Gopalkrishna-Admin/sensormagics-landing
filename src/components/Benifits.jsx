@@ -4,6 +4,7 @@ import Section from "./Section";
 import Arrow from "../assets/svg/Arrow";
 import { GradientLight } from "./design/Benefits";
 import ClipPath from "../assets/svg/ClipPath";
+import Bento from "./Bento";
 
 const Benefits = () => {
   return (
@@ -13,10 +14,12 @@ const Benefits = () => {
           className="md:max-w-md lg:max-w-2xl text-center"
           title="Chat Smarter, Not Harder with Brainwave"
         />
-
-        <div className="flex flex-wrap gap-10 mb-10">
+        {/* Gopal New Block */}
+        <Bento />
+        {/* <div className="flex flex-wrap gap-10 mb-10">
           {benefits.map((item) => (
             <div
+
               className="block relative p-0.5 bg-no-repeat bg-cover md:max-w-[24rem] cursor-pointer"
               style={{
                 backgroundImage: `url(${item.backgroundUrl})`,
@@ -62,7 +65,7 @@ const Benefits = () => {
               <ClipPath />
             </div>
           ))}
-        </div>
+        </div> */}
       </div>
     </Section>
   );
